@@ -24,7 +24,7 @@ Features sind:
 m05 - MobilIntY
 
 Teammitglieder:
-Anna-Lena Zudock
+Anna-Lena Zudock <br>
 David Mutschler
 Dennis Reisenauer
 Leandro Cerqueira Karst
