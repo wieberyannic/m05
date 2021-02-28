@@ -18,6 +18,10 @@ Features sind:<br>
 		- Herzfrequenz und EKG <br>
 		- Notruf-Funktion <br>
 		- Digitale Krankenakte <br>
+<br>
+* [Businessplan](./IntY_Businessplan.pdf)
+* [Präsentation pdf](./IntY_PitchPräsentation.pdf)
+* [Präsentation Powerpoint](./IntY_PitchPräsentation.pptx)
 
 # Name des Teams und der einzelnen Teammitglieder
 
