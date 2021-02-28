@@ -17,7 +17,7 @@ Features sind:
 		- GPS – Daten /Höhenmessung 
 		- Herzfrequenz und EKG
 		- Notruf-Funktion
-		- Digitale Krankenakte 
+		- Digitale Krankenakte
 
 # Name des Teams und der einzelnen Teammitglieder
 
