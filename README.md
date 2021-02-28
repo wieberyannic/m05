@@ -21,9 +21,9 @@ Features sind:<br>
 
 # Name des Teams und der einzelnen Teammitglieder
 
-m05 - MobilIntY <br><br>
+m05 - MobilIntY
 
-Teammitglieder: <br>
+Teammitglieder: <br><br>
 Anna-Lena Zudock <br>
 David Mutschler <br>
 Dennis Reisenauer <br>
