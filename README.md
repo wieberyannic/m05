@@ -22,7 +22,7 @@ Features sind:<br>
 # Name des Teams und der einzelnen Teammitglieder
 
 m05 - MobilIntY
-
+<br>
 Teammitglieder: <br><br>
 Anna-Lena Zudock <br>
 David Mutschler <br>
