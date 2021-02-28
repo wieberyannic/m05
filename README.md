@@ -14,7 +14,7 @@ Intelligentes und stylisches Wearable für Menschen mit Seh- oder Gehbehinderung
 Features sind:	
 		- 5G-basierte Echtzeitkommunikation mit Verkehrsmitteln wie z.B. Ampeln, Bushaltestellen etc
 		- Blut-Sauerstoff-Sensor 
-		- GPS – Daten /Höhenmessung 
+		- GPS Daten/Höhenmessung 
 		- Herzfrequenz und EKG
 		- Notruf-Funktion
 		- Digitale Krankenakte
